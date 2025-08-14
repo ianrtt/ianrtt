@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ianrtt.ianrtt&"  />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianrtt" alt="ianrtt" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ianrtt&title=Joined2020" alt="ianrtt" /></a> </p>
 
 ###
 
