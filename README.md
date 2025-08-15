@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ianrtt.ianrtt"  />
 </div>
 
-<p align="center"><img src="https://github-trophies.vercel.app/?username=ianrtt" alt="ianrtt"/></a> </p>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=ianrtt" alt="ianrtt" /></a> </p>
 
 ###
 
